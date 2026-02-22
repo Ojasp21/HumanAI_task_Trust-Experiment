@@ -1,0 +1,46 @@
+{
+  "A": [
+    {
+      "name": "System",
+      "message": "There is a 70% probability that Option A is optimal."
+    },
+    {
+      "name": "System",
+      "message": "Based on analysis, Option A has higher expected value."
+    },
+    {
+      "name": "System",
+      "message": "Statistical model favors Option A."
+    },
+    {
+      "name": "System",
+      "message": "Data indicates Option A is the better choice."
+    },
+    {
+      "name": "System",
+      "message": "Probability assessment supports Option A."
+    }
+  ],
+  "B": [
+    {
+      "name": "Alex",
+      "message": "I’m confident Option A is the best for you"
+    },
+    {
+      "name": "Alex",
+      "message": "Trust me — Option A is the right pick!"
+    },
+    {
+      "name": "Alex",
+      "message": "I strongly believe Option A will work out great."
+    },
+    {
+      "name": "Alex",
+      "message": "You’ll be happiest choosing Option A."
+    },
+    {
+      "name": "Alex",
+      "message": "I’m sure Option A is the smartest choice."
+    }
+  ]
+}
